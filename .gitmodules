@@ -1,10 +1,6 @@
-[submodule "SparkFun Library"]
-  path = Libraries/SparkFun
-  url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
-  update = rebase
-
-[submodule "AdaFruit Library"]
-  path = Libraries/AdaFruit
-  url = https://github.com/adafruit/Adafruit-Eagle-Library.git
-  update = rebase
-
+[submodule "Libraries/SparkFun"]
+	path = Libraries/SparkFun
+	url = https://github.com/sparkfun/SparkFun-Eagle-Libraries.git
+[submodule "Libraries/AdaFruit"]
+	path = Libraries/AdaFruit
+	url = https://github.com/adafruit/Adafruit-Eagle-Library.git
